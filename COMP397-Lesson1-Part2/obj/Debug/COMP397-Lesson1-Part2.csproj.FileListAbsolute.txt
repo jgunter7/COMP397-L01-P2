@@ -1,0 +1,5 @@
+C:\Users\Jason\Desktop\GIT\COMP397-L1-P2\COMP397-L01-P2\COMP397-L01-P2\COMP397-Lesson1-Part2\bin\COMP397-Lesson1-Part2.dll
+C:\Users\Jason\Desktop\GIT\COMP397-L1-P2\COMP397-L01-P2\COMP397-L01-P2\COMP397-Lesson1-Part2\bin\COMP397-Lesson1-Part2.pdb
+C:\Users\Jason\Desktop\GIT\COMP397-L1-P2\COMP397-L01-P2\COMP397-L01-P2\COMP397-Lesson1-Part2\obj\Debug\COMP397-Lesson1-Part2.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Desktop\GIT\COMP397-L1-P2\COMP397-L01-P2\COMP397-L01-P2\COMP397-Lesson1-Part2\obj\Debug\COMP397-Lesson1-Part2.dll
+C:\Users\Jason\Desktop\GIT\COMP397-L1-P2\COMP397-L01-P2\COMP397-L01-P2\COMP397-Lesson1-Part2\obj\Debug\COMP397-Lesson1-Part2.pdb
